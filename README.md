@@ -151,4 +151,4 @@ python manage.py runserver
 
 ##  Contact
 
-Telegram: [@yourhandle](https://t.me/kozimov_01)
+Telegram: [@kozimov_01](https://t.me/kozimov_01)
